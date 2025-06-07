@@ -1,1 +1,1 @@
-# Gif-Maker
+# GIF-Maker
